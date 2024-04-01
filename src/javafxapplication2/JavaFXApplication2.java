@@ -39,7 +39,7 @@ public class JavaFXApplication2 extends Application {
         primaryStage.setTitle("Hello World!");
         primaryStage.setScene(scene);
         primaryStage.show();
-        System.out.println("hola");
+        System.out.println("adiós");
     }
 
     /**
