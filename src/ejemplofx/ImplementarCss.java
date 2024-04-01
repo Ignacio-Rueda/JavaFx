@@ -17,6 +17,7 @@ import javafx.stage.Stage;
  * 1.Crear una nueva clase CSS.
  * 2.Adjunta archivo CSS en la escena.
  * 3.Pon el estilo del botón: .button{}
+ * https://stackoverflow.com/questions/27668201/how-to-set-default-css-for-all-buttons-in-javafx/27668214#27668214?newreg=4ab2c00ef7514776808c539a8905dc87
  * @author Ignacio
  */
 public class ImplementarCss extends Application{
