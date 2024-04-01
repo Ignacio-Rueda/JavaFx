@@ -2,6 +2,7 @@
 package ejemplofx;
 
 import javafx.application.Application;
+import javafx.event.ActionEvent;
 
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
@@ -17,7 +18,7 @@ public class Lambda extends Application{
     public void start(Stage stage){
         Button boton = new Button("Botón");
         
-        boton.setOnAction(ActionEvent->{
+        boton.setOnAction((ActionEvent event)->{
             System.out.println("holi");
         });
         
