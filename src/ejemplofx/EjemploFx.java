@@ -16,28 +16,30 @@ import javafx.stage.Stage;
  * @author Ignacio
  */
 public class EjemploFx extends Application {
-    
     @Override
-    public void start(Stage primaryStage) {
-        
-        Label label = new Label();
-        label.setText("Say 'Hello World'");
+    public void start(Stage stage){
+        /**
+         * En una aplicación JavaFX los nodos de la escena son los elementos que componen  la escena.
+         * La clase superior que representa estos nodods, es un panel. En este caso vamos a utilizar un StackPane.
+         */
+        Label label = new Label("Hola nachete 2");
         
         StackPane root = new StackPane();
         root.getChildren().add(label);
         
-        Scene scene = new Scene(root, 300, 250);
-        
-        primaryStage.setTitle("Hello World!");
-        primaryStage.setScene(scene);
-        primaryStage.show();
-    }
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        launch(args);
+        Scene scene = new Scene(root,300,300);
+        /**
+         * Cada aplicación puede tener realmente varios escenarios (Stage).
+         * Cada escenario varias escenas.
+         */
+        stage.setTitle("Titulo ventana");
+        stage.setScene(scene);
+        stage.show();
+    
+    
     }
     
+    public static void main(String args[]){
+        launch(args);
+    }
 }
