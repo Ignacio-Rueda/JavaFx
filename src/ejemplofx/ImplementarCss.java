@@ -13,7 +13,10 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
 /**
- *
+ *En stacoverflow indican que para aplicar estilos por defecto:
+ * 1.Crear una nueva clase CSS.
+ * 2.Adjunta archivo CSS en la escena.
+ * 3.Pon el estilo del botón: .button{}
  * @author Ignacio
  */
 public class ImplementarCss extends Application{
