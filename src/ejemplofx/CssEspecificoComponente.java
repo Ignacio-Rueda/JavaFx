@@ -13,7 +13,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 /**
- *
+ *https://javiergarciaescobedo.es/programacion-en-java/96-javafx/481-hojas-de-estilo-css-con-javafx
  * @author Ignacio
  */
 public class CssEspecificoComponente extends Application{
