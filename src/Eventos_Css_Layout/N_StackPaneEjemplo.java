@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplofx;
+package Eventos_Css_Layout;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
