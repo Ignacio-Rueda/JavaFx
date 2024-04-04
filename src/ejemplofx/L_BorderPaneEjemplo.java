@@ -11,7 +11,7 @@ import javafx.stage.Stage;
  *BorderPane: Dispone a sus nodos hijos, en cinco áreas separadas: SUPERIOR - INFERIOR - DERECHA - IZQUIERDA -CENETRO.
  * @author Ignacio
  */
-public class BorderPaneEjemplo extends Application{
+public class L_BorderPaneEjemplo extends Application{
     private BorderPane borderPane = new BorderPane();
     @Override
     public void start(Stage stage){

@@ -16,7 +16,7 @@ import javafx.stage.Stage;
  *https://javiergarciaescobedo.es/programacion-en-java/96-javafx/481-hojas-de-estilo-css-con-javafx
  * @author Ignacio
  */
-public class CssEspecificoComponente extends Application{
+public class E_CssEspecificoComponente extends Application{
     
     @Override
     public void start(Stage stage){

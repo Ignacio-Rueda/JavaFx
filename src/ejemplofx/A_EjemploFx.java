@@ -15,7 +15,7 @@ import javafx.stage.Stage;
  *
  * @author Ignacio
  */
-public class EjemploFx extends Application {
+public class A_EjemploFx extends Application {
     @Override
     public void start(Stage stage){
         /**

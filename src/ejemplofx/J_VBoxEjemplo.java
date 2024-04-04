@@ -12,7 +12,7 @@ import javafx.scene.layout.VBox;
  *
  * @author Ignacio
  */
-public class VBoxEjemplo extends Application {
+public class J_VBoxEjemplo extends Application {
     private VBox vbox;
     @Override
     public void start(Stage stage){

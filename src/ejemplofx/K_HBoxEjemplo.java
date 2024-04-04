@@ -12,7 +12,7 @@ import javafx.stage.Stage;
  *
  * @author Ignacio
  */
-public class HBoxEjemplo extends Application {
+public class K_HBoxEjemplo extends Application {
     //Declarar el layout
     private HBox caja;
 

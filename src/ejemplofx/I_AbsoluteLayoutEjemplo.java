@@ -14,7 +14,7 @@ import javafx.stage.Stage;
  *Lo contenedores o paneles de diseño se usan para disponer los controles de la interfaz de usuario dentro de un escenario gráfico de una aplicación JavaFX. 
  * Los layouts absolutos se suelen usar sobre todo para posicionar imágenes o digramas. Se emplea la clase Pane. Se puede utilizar para posicionar nodos en coordenadas absolutas.
  */
-public class AbsoluteLayoutEjemplo extends Application {
+public class I_AbsoluteLayoutEjemplo extends Application {
     @Override
     public void start(Stage stage){
         Pane root = new Pane();

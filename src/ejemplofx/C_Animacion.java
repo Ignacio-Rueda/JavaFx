@@ -24,7 +24,7 @@ import javafx.util.Duration;
  *
  * @author Ignacio
  */
-public class Animacion extends Application {
+public class C_Animacion extends Application {
     
     @Override
     public void start(Stage stage){

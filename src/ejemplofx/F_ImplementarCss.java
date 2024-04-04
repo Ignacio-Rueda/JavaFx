@@ -20,7 +20,7 @@ import javafx.stage.Stage;
  * https://stackoverflow.com/questions/27668201/how-to-set-default-css-for-all-buttons-in-javafx/27668214#27668214?newreg=4ab2c00ef7514776808c539a8905dc87
  * @author Ignacio
  */
-public class ImplementarCss extends Application{
+public class F_ImplementarCss extends Application{
     @Override
     public void start(Stage stage){
         Button boton = new Button("Pulsar");

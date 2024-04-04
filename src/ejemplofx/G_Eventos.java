@@ -18,7 +18,7 @@ import javafx.stage.Stage;
  * De este modo, el método handle será invocado cuando ocurra el evento.
  * @author Ignacio
  */
-public class Eventos extends Application {
+public class G_Eventos extends Application {
 
     @Override
     public void start(Stage stage) {

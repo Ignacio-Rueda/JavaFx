@@ -13,7 +13,7 @@ import javafx.stage.Stage;
  *
  * @author Ignacio
  */
-public class CssEspecificaPadre extends Application{
+public class D_CssEspecificaPadre extends Application{
     
     @Override
     public void start(Stage stage){
