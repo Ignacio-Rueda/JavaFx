@@ -20,7 +20,7 @@ import javafx.stage.Stage;
  * De manera predeterminada StackPane coloca los nodos en el centro, pero ese se puede modificar.
  * @author Ignacio
  */
-public class N_StackPane extends Application{
+public class N_StackPaneEjemplo extends Application{
     @Override
     public void start(Stage stage){
         StackPane stackPane = new StackPane();
