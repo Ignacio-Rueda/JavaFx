@@ -45,7 +45,7 @@ public class Q_GridPaneEjemplo extends Application{
          * Esto hace que el campo de texto y los controles de la vista de lista crezcan en dirección horizontal a medida que se agranda la ventana.
          */
         ColumnConstraints cons1 = new ColumnConstraints();
-        cons1.setHgrow(Priority.NEVER);
+        //cons1.setHgrow(Priority.NEVER);
         root.getColumnConstraints().add(cons1);
         
         
